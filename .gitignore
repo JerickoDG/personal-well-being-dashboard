@@ -95,6 +95,7 @@ ENV/
 env.bak/
 venv.bak/
 .env*/
+.data-env
 
 # Spyder project settings
 .spyderproject
@@ -120,3 +121,4 @@ gmail_token.json
 test.py
 
 .DS_Store
+.gitignore
